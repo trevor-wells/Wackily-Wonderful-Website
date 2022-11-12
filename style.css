@@ -1,0 +1,9 @@
+body {
+    background: rgb(113, 113, 184);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: monospace;
+}
